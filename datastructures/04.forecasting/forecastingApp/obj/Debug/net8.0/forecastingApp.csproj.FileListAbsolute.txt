@@ -1,0 +1,14 @@
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\bin\Debug\net8.0\forecastingApp.exe
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\bin\Debug\net8.0\forecastingApp.deps.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\bin\Debug\net8.0\forecastingApp.runtimeconfig.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\bin\Debug\net8.0\forecastingApp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\bin\Debug\net8.0\forecastingApp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.AssemblyInfoInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.AssemblyInfo.cs
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.csproj.CoreCompileInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\refint\forecastingApp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\forecastingApp.genruntimeconfig.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\04.forecasting\forecastingApp\obj\Debug\net8.0\ref\forecastingApp.dll
