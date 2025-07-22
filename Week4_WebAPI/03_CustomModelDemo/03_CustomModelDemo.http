@@ -1,0 +1,6 @@
+@_03_CustomModelDemo_HostAddress = http://localhost:5170
+
+GET {{_03_CustomModelDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,14 @@
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\bin\Debug\net8.0\factoryapp.exe
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\bin\Debug\net8.0\factoryapp.deps.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\bin\Debug\net8.0\factoryapp.runtimeconfig.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\bin\Debug\net8.0\factoryapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\bin\Debug\net8.0\factoryapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.AssemblyInfoInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.AssemblyInfo.cs
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.csproj.CoreCompileInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\refint\factoryapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\factoryapp.genruntimeconfig.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\02.factory\factoryapp\obj\Debug\net8.0\ref\factoryapp.dll

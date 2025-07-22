@@ -1,0 +1,14 @@
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\bin\Debug\net8.0\singletonapp.exe
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\bin\Debug\net8.0\singletonapp.deps.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\bin\Debug\net8.0\singletonapp.runtimeconfig.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\bin\Debug\net8.0\singletonapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\bin\Debug\net8.0\singletonapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.AssemblyInfoInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.AssemblyInfo.cs
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.csproj.CoreCompileInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\refint\singletonapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\singletonapp.genruntimeconfig.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\01.singleton\singletonapp\obj\Debug\net8.0\ref\singletonapp.dll
