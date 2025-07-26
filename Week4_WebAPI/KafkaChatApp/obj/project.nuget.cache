@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wscPxoy09XY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Documents\\Cognizant\\DN-4.0-Deep-Skilling\\Week4_WebAPI\\KafkaChatApp\\KafkaChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

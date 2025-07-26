@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\05_JWTAuthDemo.props" />
+</Project>

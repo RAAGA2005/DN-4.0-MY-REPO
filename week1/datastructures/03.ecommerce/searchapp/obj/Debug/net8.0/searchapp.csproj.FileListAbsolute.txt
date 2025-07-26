@@ -1,0 +1,14 @@
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\bin\Debug\net8.0\searchapp.exe
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\bin\Debug\net8.0\searchapp.deps.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\bin\Debug\net8.0\searchapp.runtimeconfig.json
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\bin\Debug\net8.0\searchapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\bin\Debug\net8.0\searchapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.AssemblyInfoInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.AssemblyInfo.cs
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.csproj.CoreCompileInputs.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\refint\searchapp.dll
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.pdb
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\searchapp.genruntimeconfig.cache
+C:\Users\ragan\OneDrive\Desktop\cog_deepskills\week1_designpatterns_andprincipals\datastructures\03.ecommerce\searchapp\obj\Debug\net8.0\ref\searchapp.dll

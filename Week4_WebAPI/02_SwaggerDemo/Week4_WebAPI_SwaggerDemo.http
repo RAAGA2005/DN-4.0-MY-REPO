@@ -1,0 +1,6 @@
+@Week4_WebAPI_SwaggerDemo_HostAddress = http://localhost:5206
+
+GET {{Week4_WebAPI_SwaggerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
